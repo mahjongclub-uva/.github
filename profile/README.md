@@ -19,3 +19,13 @@ Want to know how the club began?
 
 Follow the semester's games on our [leaderboard](https://mahjongclubuva.org/leaderboard/).
 If you have an idea for the website, explore the [site repository](https://github.com/mahjongclub-uva/mahjongclub-site) and open an issue or pull request there.
+
+## Webmaster history
+
+Students keep the club website running from year to year.
+
+| School year | Webmaster |
+| --- | --- |
+| 2026–27 | Gabriel Dela Cruz |
+
+The next webmaster can add a row when the site changes hands.
